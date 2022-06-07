@@ -1,0 +1,1 @@
+how left join return null and not inner join?
